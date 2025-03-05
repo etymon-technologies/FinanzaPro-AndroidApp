@@ -1,1 +1,0 @@
-# FinanzaPro-AndroidApp
